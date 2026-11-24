@@ -1,0 +1,8 @@
+{
+  "name": "Bharath Delights",
+  "description": "Taste the Tradition of Tamil Nadu — Authentic South Indian restaurant menu and online food ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
